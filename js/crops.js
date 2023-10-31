@@ -1033,5 +1033,120 @@ var crops = {
       "kegType": "Wine"
     },
     "isWildseed": true
+  },
+  "paleberry": {
+    "name": "Pale Berry",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6626",
+    "img": "paleberry.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 110,
+      "specialLoc": "Umuwi Vendor",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/6626"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 6
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.3,
+      "price": 110,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "eggroot": {
+    "name": "Eggroot",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6626",
+    "img": "eggroot.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 180,
+      "specialLoc": "Umuwi Vendor",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/6626"
+    },
+    "growth": {
+      "initial": 14,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 280,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "sourpotato": {
+    "name": "Sour Potato",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6626",
+    "img": "sourpotato.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 70,
+      "specialLoc": "Umuwi Vendor",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/6626"
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.6,
+      "price": 77,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "thornpepper": {
+    "name": "Thorn Pepper",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6626",
+    "img": "thornpepper.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 100,
+      "specialLoc": "Umuwi Vendor",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/6626"
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 6
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.5,
+      "price": 55,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "ghostcabbage": {
+    "name": "Ghost Cabbage",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6626",
+    "img": "ghostcabbage.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 100,
+      "specialLoc": "Umuwi Vendor",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/6626"
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.3,
+      "price": 220,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
   }
 };

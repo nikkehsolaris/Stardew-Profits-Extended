@@ -94,7 +94,9 @@ var seasons = [
 			crops.bluejazz,
 			crops.tulip,
 			crops.ancientfruit,
-			crops.springseeds
+			crops.springseeds,
+			crops.paleberry,
+			crops.eggroot
 		]
 	},
 	{
@@ -119,7 +121,9 @@ var seasons = [
 			crops.sunflower,
 			crops.ancientfruit,
 			crops.taroroot,
-			crops.summerseeds
+			crops.summerseeds,
+			crops.sourpotato,
+			crops.thornpepper
 		]
 	},
 	{
@@ -142,7 +146,8 @@ var seasons = [
 			crops.wheat,
 			crops.corn,
 			crops.ancientfruit,
-			crops.fallseeds
+			crops.fallseeds,
+			crops.ghostcabbage
 		]
 	},
 	{
