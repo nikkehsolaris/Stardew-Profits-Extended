@@ -147,7 +147,7 @@ function minSeedCost(crop) {
 		minSeedCost = crop.seeds.pierre;
 	if (crop.seeds.joja != 0 && options.seeds.joja && crop.seeds.joja < minSeedCost)
 		minSeedCost = crop.seeds.joja;
-	if (crop.seeds.special != 0 && options.seeds.special && crop.seeds.special < minSeedCost)
+	if (options.seeds.special && crop.seeds.special < minSeedCost)
 		minSeedCost = crop.seeds.special;
 	
 	return minSeedCost;
@@ -347,7 +347,7 @@ function fetchCrops() {
 
 	for (var i = 0; i < season.crops.length; i++) {
 	    if ((options.seeds.pierre && season.crops[i].seeds.pierre != 0) ||
-	    	(options.seeds.joja && season.crops[i].seeds.joja != 0)) {
+	    	(options.seeds.joja && season.crops[i].seeds.joja != 0) || (options.seeds.special)) {
 	    	cropList.push(JSON.parse(JSON.stringify(season.crops[i])));
 	    	cropList[cropList.length - 1].id = i;
 		}
@@ -812,7 +812,7 @@ function renderGraph() {
 						tooltipTr.append("td").attr("class", "tooltipTdRight").text(d.seeds.joja)
 						.append("div").attr("class", "gold");
 					}
-					if (d.seeds.special > 0) {
+					if (d.seeds.special >= 0) {
 						tooltipTr = tooltipTable.append("tr");
 						if (first) {
 							tooltipTr.append("td").attr("class", "tooltipTdLeftSpace").text("Seeds (Special):");
