@@ -501,7 +501,7 @@ function renderGraph() {
 	var ax = updateScaleAxis();
 
 	svg.attr("width", barOffsetX + barPadding * 2 + (barWidth + barPadding) * cropList.length);
-	d3.select(".graph").attr("width", barOffsetX + barPadding * 2 + (barWidth + barPadding) * cropList.lengthm + 300);
+	d3.select(".graph").attr("width", barOffsetX + barPadding * 2 + (barWidth + barPadding) * cropList.length + 300);
 
 	var yAxis = d3.svg.axis()
 		.scale(ax)
