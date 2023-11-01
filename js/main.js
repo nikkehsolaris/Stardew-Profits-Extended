@@ -347,8 +347,7 @@ function fetchCrops() {
 
 	for (var i = 0; i < season.crops.length; i++) {
 	    if ((options.seeds.pierre && season.crops[i].seeds.pierre != 0) ||
-	    	(options.seeds.joja && season.crops[i].seeds.joja != 0) ||
-	    	(options.seeds.special && season.crops[i].seeds.special != 0)) {
+	    	(options.seeds.joja && season.crops[i].seeds.joja != 0)) {
 	    	cropList.push(JSON.parse(JSON.stringify(season.crops[i])));
 	    	cropList[cropList.length - 1].id = i;
 		}

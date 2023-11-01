@@ -291,7 +291,6 @@ var seasons = [
 			crops.serruria,
 			crops.moonflower,
 			crops.azurechrysanthemum
-
 		]
 	}
 ];
