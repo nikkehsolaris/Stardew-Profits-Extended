@@ -1775,7 +1775,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "Monster Drop",
       "specialUrl": ""
     },
@@ -1798,7 +1798,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "Monster Drop",
       "specialUrl": ""
     },
@@ -1821,7 +1821,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "Monster Drop",
       "specialUrl": ""
     },
@@ -1844,7 +1844,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "Artifact Spots in Secret Woods",
       "specialUrl": ""
     },
@@ -1867,7 +1867,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "Monster Drop",
       "specialUrl": ""
     },
@@ -1890,7 +1890,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "Artifact Spots in Secret Woods",
       "specialUrl": ""
     },
@@ -1980,7 +1980,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "East Scarp - Unknown",
       "specialUrl": ""
     },
@@ -2001,7 +2001,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "East Scarp - Unknown",
       "specialUrl": ""
     },
@@ -2022,7 +2022,7 @@ var crops = {
     "seeds": {
       "pierre": 0,
       "joja": 0,
-      "special": 0,
+      "special": 1,
       "specialLoc": "East Scarp - Unknown",
       "specialUrl": ""
     },
