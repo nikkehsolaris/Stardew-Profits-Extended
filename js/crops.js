@@ -1972,5 +1972,68 @@ var crops = {
       "extraPerc": 0,
       "price": 200,
     },
+  },
+  "serruria": {
+    "name": "Serruria",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/5787",
+    "img": "serruria.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "East Scarp - Unknown",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 14,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 300,
+    },
+  },
+  "moonflower": {
+    "name": "Moonflower",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/5787",
+    "img": "moonflower.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "East Scarp - Unknown",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 28,
+      "regrow": 56
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 2500,
+    },
+  },
+  "azurechrysanthemum": {
+    "name": "Azure Chrysanthemum",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/5787",
+    "img": "azurechrysanthemum.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "East Scarp - Unknown",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 250,
+    },
   }
 };

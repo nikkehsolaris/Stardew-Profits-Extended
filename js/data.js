@@ -106,7 +106,10 @@ var seasons = [
 			crops.loc_onion,
 			crops.jojaveggie,
 			crops.salalberry,
-			crops.jojaberry
+			crops.jojaberry,
+			crops.serruria,
+			crops.moonflower,
+			crops.azurechrysanthemum
 		]
 	},
 	{
@@ -147,7 +150,10 @@ var seasons = [
 			crops.jojaveggie,
 			crops.salalberry,
 			crops.jojaberry,
-			crops.birdofparadise
+			crops.birdofparadise,
+			crops.serruria,
+			crops.moonflower,
+			crops.azurechrysanthemum
 		]
 	},
 	{
@@ -179,7 +185,9 @@ var seasons = [
 			crops.sweetpotato,
 			crops.monstermushroom,
 			crops.jojaveggie,
-			crops.jojaberry
+			crops.jojaberry,
+			crops.moonflower,
+			crops.azurechrysanthemum
 		]
 	},
 	{
@@ -192,7 +200,9 @@ var seasons = [
 			crops.lettuce,
 			crops.peanut,
 			crops.silvergourd,
-			crops.voidroot
+			crops.voidroot,
+			crops.serruria,
+			crops.moonflower
 		]
 	},
 	{
@@ -277,7 +287,10 @@ var seasons = [
 			crops.lentil,
 			crops.raspberry,
 			crops.watermelon,
-			crops.loc_onion
+			crops.loc_onion,
+			crops.serruria,
+			crops.moonflower,
+			crops.azurechrysanthemum
 
 		]
 	}
