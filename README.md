@@ -1,5 +1,5 @@
 # Stardew Profits
-Stardew Profits is a calculation and graphing tool designed to help the players of the popular game "Stardew Valley" to easily calculate and compare their profits from planting different crops under different conditions.
+Stardew Profits is a calculation and graphing tool designed to help the players of the popular game "Stardew Valley" to easily calculate and compare their profits from planting different crops under different conditions. 
 
 **Now supports [Plentiful Harvest](https://www.nexusmods.com/stardewvalley/mods/9949),[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753),[Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830) and [Lunna Astray](https://www.nexusmods.com/stardewvalley/mods/6626)!**
 
@@ -31,5 +31,9 @@ Level 5 skills | The *Tilling* skill is available once the player reaches level 
 Level 10 skills | Specific skills available once the player reaches level 10 in *Farming*. This option is disabled unless the correct level is set and unless *Tilling* is enabled under Level 5 skills.
 Show extra info | Selecting this will show additional detailed info about every crop on the tooltip.
 
+# Thanks
+
+Thank you to Thorinair for the original code. This is the profitability tool I've been using for over 5 years. 
+
 # Contact
-You may contact me on the following locations: 
+You may contact me on the following locations: here, and on Discord at nikkeh.solaris
