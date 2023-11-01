@@ -96,7 +96,14 @@ var seasons = [
 			crops.ancientfruit,
 			crops.springseeds,
 			crops.paleberry,
-			crops.eggroot
+			crops.eggroot,
+			crops.asparagus,
+			crops.ph_carrot,
+			crops.fieldpea,
+			crops.lentil,
+			crops.raspberry,
+			crops.watermelon,
+			crops.loc_onion
 		]
 	},
 	{
@@ -123,7 +130,15 @@ var seasons = [
 			crops.taroroot,
 			crops.summerseeds,
 			crops.sourpotato,
-			crops.thornpepper
+			crops.thornpepper,
+			crops.basil,
+			crops.bellpepper,
+			crops.cucumber,
+			crops.currant,
+			crops.dragonfruit,
+			crops.ph_onion,
+			crops.cabbage,
+			crops.loc_carrot
 		]
 	},
 	{
@@ -147,14 +162,24 @@ var seasons = [
 			crops.corn,
 			crops.ancientfruit,
 			crops.fallseeds,
-			crops.ghostcabbage
+			crops.ghostcabbage,
+			crops.butternutsquash,
+			crops.parsley,
+			crops.quince,
+			crops.soy,
+			crops.sweetpotato
 		]
 	},
 	{
 		"name": "Winter",
 		"duration": 28,
 		"crops": [
-			crops.winterseeds
+			crops.winterseeds,
+			crops.broccoli,
+			crops.chard,
+			crops.lettuce,
+			crops.peanut,
+			crops.silvergourd
 		]
 	},
 	{

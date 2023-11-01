@@ -1148,5 +1148,626 @@ var crops = {
       "jarType": "Pickles",
       "kegType": "Juice"
     },
+  },
+  "asparagus": {
+    "name": "Asparagus",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "asparagus.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 45,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 66,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "basil": {
+    "name": "Basil",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "basil.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 7,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 13,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "bellpepper": {
+    "name": "Bell Pepper",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "bellpepper.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 67,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 110,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "broccoli": {
+    "name": "Broccoli",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "broccoli.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 105,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 187,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "butternutsquash": {
+    "name": "Butternut Squash",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "butternutsquash.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 45,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 198,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "ph_carrot": {
+    "name": "PH Carrot",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "ph_carrot.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 25,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 44,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "chard": {
+    "name": "Chard",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "chard.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 105,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 171,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "cucumber": {
+    "name": "Cucumber",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "cucumber.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 135,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "currant": {
+    "name": "Currant",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "currant.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 45,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 2
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 67,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "dragonfruit": {
+    "name": "Dragon Fruit",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "dragonfruit.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 300,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 17,
+      "regrow": 6
+    },
+    "produce": {
+      "extra": 6,
+      "extraPerc": 0.05,
+      "price": 121,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "elderberry": {
+    "name": "Elderberry",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "elderberry.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 52,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 27,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "fieldpea": {
+    "name": "Field Pea",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "fieldpea.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 50,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 3,
+      "extraPerc": 0.3,
+      "price": 22,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "huckleberry": {
+    "name": "Huckleberry",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "huckleberry.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 225,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 6,
+      "extraPerc": 0.1,
+      "price": 77,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "lentil": {
+    "name": "Lentil",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "lentil.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 34,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 52,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "lettuce": {
+    "name": "Lettuce",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "lettuce.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 120,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 10,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 198,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "ph_onion": {
+    "name": "PH Onion",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "ph_onion.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 60,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 61,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "parsley": {
+    "name": "Parsley",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "parsley.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 12,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 17,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "peanut": {
+    "name": "peanut",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "peanut.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 112,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 5,
+      "extraPerc": 0.1,
+      "price": 70,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "quince": {
+    "name": "Quince",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "quince.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 120,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 3,
+      "extraPerc": 0.2,
+      "price": 57,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "raspberry": {
+    "name": "Raspberry",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "raspberry.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 40,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 7,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 5,
+      "extraPerc": 0.5,
+      "price": 16,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "silvergourd": {
+    "name": "Silver Gourd",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "silvergourd.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 138,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 212,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "soy": {
+    "name": "Soy",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "quince.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 96,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 5,
+      "regrow": 2
+    },
+    "produce": {
+      "extra": 3,
+      "extraPerc": 0.2,
+      "price": 35,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "sweetpotato": {
+    "name": "Sweet Potato",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "sweetpotato.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 120,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 6,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 3,
+      "extraPerc": 0.3,
+      "price": 48,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "watermelon": {
+    "name": "Watermelon",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/9949",
+    "img": "watermelon.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 95,
+      "specialLoc": "PH Stand",
+      "specialUrl": "https://www.nexusmods.com/stardewvalley/mods/9949"
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 5
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 148,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "loc_carrot": {
+    "name": "LoC Carrot",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6830",
+    "img": "loc_carrot.png",
+    "seeds": {
+      "pierre": 25,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 44,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "loc_onion": {
+    "name": "LoC Onion",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6830",
+    "img": "loc_onion.png",
+    "seeds": {
+      "pierre": 45,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 4,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 55,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "cabbage": {
+    "name": "Cabbage",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/6830",
+    "img": "cabbage.png",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 149,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
   }
 };
