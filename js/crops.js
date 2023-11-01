@@ -1704,10 +1704,10 @@ var crops = {
     "url": "https://www.nexusmods.com/stardewvalley/mods/6830",
     "img": "loc_carrot.png",
     "seeds": {
-      "pierre": 25,
+      "pierre": 0,
       "joja": 0,
-      "special": 0,
-      "specialLoc": "",
+      "special": 25,
+      "specialLoc": "Pierre",
       "specialUrl": ""
     },
     "growth": {
@@ -1727,10 +1727,10 @@ var crops = {
     "url": "https://www.nexusmods.com/stardewvalley/mods/6830",
     "img": "loc_onion.png",
     "seeds": {
-      "pierre": 45,
+      "pierre": 0,
       "joja": 0,
-      "special": 0,
-      "specialLoc": "",
+      "special": 45,
+      "specialLoc": "Pierre",
       "specialUrl": ""
     },
     "growth": {
@@ -1750,10 +1750,10 @@ var crops = {
     "url": "https://www.nexusmods.com/stardewvalley/mods/6830",
     "img": "cabbage.png",
     "seeds": {
-      "pierre": 80,
+      "pierre": 0,
       "joja": 0,
-      "special": 0,
-      "specialLoc": "",
+      "special": 80,
+      "specialLoc": "Pierre",
       "specialUrl": ""
     },
     "growth": {
