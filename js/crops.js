@@ -1912,9 +1912,9 @@ var crops = {
     "img": "jojaveggie.png",
     "seeds": {
       "pierre": 0,
-      "joja": 600,
-      "special": 0,
-      "specialLoc": "",
+      "joja": 0,
+      "special": 600,
+      "specialLoc": "Joja Emporium in SVE",
       "specialUrl": ""
     },
     "growth": {
@@ -1935,9 +1935,9 @@ var crops = {
     "img": "jojaberry.png",
     "seeds": {
       "pierre": 0,
-      "joja": 6500,
-      "special": 0,
-      "specialLoc": "",
+      "joja": 0,
+      "special": 6500,
+      "specialLoc": "Joja Emporium in SVE",
       "specialUrl": ""
     },
     "growth": {
