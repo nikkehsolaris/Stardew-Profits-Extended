@@ -103,7 +103,10 @@ var seasons = [
 			crops.lentil,
 			crops.raspberry,
 			crops.watermelon,
-			crops.loc_onion
+			crops.loc_onion,
+			crops.jojaveggie,
+			crops.salalberry,
+			crops.jojaberry
 		]
 	},
 	{
@@ -138,7 +141,12 @@ var seasons = [
 			crops.dragonfruit,
 			crops.ph_onion,
 			crops.cabbage,
-			crops.loc_carrot
+			crops.loc_carrot,
+			crops.monsterfruit,
+			crops.ancientfiber,
+			crops.jojaveggie,
+			crops.salalberry,
+			crops.jojaberry
 		]
 	},
 	{
@@ -167,7 +175,10 @@ var seasons = [
 			crops.parsley,
 			crops.quince,
 			crops.soy,
-			crops.sweetpotato
+			crops.sweetpotato,
+			crops.monstermushroom,
+			crops.jojaveggie,
+			crops.jojaberry
 		]
 	},
 	{
@@ -179,7 +190,8 @@ var seasons = [
 			crops.chard,
 			crops.lettuce,
 			crops.peanut,
-			crops.silvergourd
+			crops.silvergourd,
+			crops.voidroot
 		]
 	},
 	{

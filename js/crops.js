@@ -1769,5 +1769,212 @@ var crops = {
       "jarType": "Pickles",
       "kegType": "Juice"
     },
+  },
+  "voidroot": {
+    "name": "Void Root",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/3753",
+    "img": "voidroot.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Monster Drop",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 258,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "voidroot": {
+    "name": "Void Root",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Void_Root",
+    "img": "voidroot.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Monster Drop",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 258,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "monstermushroom": {
+    "name": "Monster Mushroom",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Monster_Mushroom",
+    "img": "monstermushroom.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Monster Drop",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 935,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "monsterfruit": {
+    "name": "Monster Fruit",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Monster_Fruit",
+    "img": "monsterfruit.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Monster Drop",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 25,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 1677,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "ancientfiber": {
+    "name": "Ancient Fiber",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Ancient_Fiber",
+    "img": "ancientfiber.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Artifact Spots in Secret Woods",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 4,
+      "extraPerc": 0.05,
+      "price": 159,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "slimeberry": {
+    "name": "Slime Berry",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Slime_Berry",
+    "img": "slimeberry.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Monster Drop",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 3,
+      "extraPerc": 0.1,
+      "price": 71,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "salalberry": {
+    "name": "Salal Berry",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Salal_Berry",
+    "img": "salalberry.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Artifact Spots in Secret Woods",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 4,
+      "extraPerc": 0.03,
+      "price": 82,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
+  },
+  "jojaveggie": {
+    "name": "Joja Veggie",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Joja_Veggie",
+    "img": "jojaveggie.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 600,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 1254,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    },
+  },
+  "jojaberry": {
+    "name": "Joja Berry",
+    "url": "https://stardew-valley-expanded.fandom.com/wiki/Joja_Berry",
+    "img": "jojaberry.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 6500,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 25,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 715,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    },
   }
 };
