@@ -146,7 +146,8 @@ var seasons = [
 			crops.ancientfiber,
 			crops.jojaveggie,
 			crops.salalberry,
-			crops.jojaberry
+			crops.jojaberry,
+			crops.birdofparadise
 		]
 	},
 	{
@@ -238,7 +239,46 @@ var seasons = [
 			crops.sunflower,
 			crops.ancientfruit,
 			crops.cactusfruit,
-			crops.taroroot
+			crops.taroroot,
+			crops.broccoli,
+			crops.chard,
+			crops.lettuce,
+			crops.peanut,
+			crops.silvergourd,
+			crops.voidroot,
+			crops.ghostcabbage,
+			crops.butternutsquash,
+			crops.parsley,
+			crops.quince,
+			crops.soy,
+			crops.sweetpotato,
+			crops.monstermushroom,
+			crops.jojaveggie,
+			crops.jojaberry,
+			crops.sourpotato,
+			crops.thornpepper,
+			crops.basil,
+			crops.bellpepper,
+			crops.cucumber,
+			crops.currant,
+			crops.dragonfruit,
+			crops.ph_onion,
+			crops.cabbage,
+			crops.loc_carrot,
+			crops.monsterfruit,
+			crops.ancientfiber,
+			crops.salalberry,
+			crops.birdofparadise,
+			crops.paleberry,
+			crops.eggroot,
+			crops.asparagus,
+			crops.ph_carrot,
+			crops.fieldpea,
+			crops.lentil,
+			crops.raspberry,
+			crops.watermelon,
+			crops.loc_onion
+
 		]
 	}
 ];

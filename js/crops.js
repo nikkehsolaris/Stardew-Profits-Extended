@@ -1951,5 +1951,26 @@ var crops = {
       "jarType": "Jelly",
       "kegType": "Wine"
     },
+  },
+  "birdofparadise": {
+    "name": "Bird of Paradise",
+    "url": "https://www.nexusmods.com/stardewvalley/mods/5787",
+    "img": "birdofparadise.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Aideen Quest Reward - East Scarp",
+      "specialUrl": "https://eastscarp.fandom.com/wiki/Bird_of_Paradise_Flower"
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 4
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "price": 200,
+    },
   }
 };
