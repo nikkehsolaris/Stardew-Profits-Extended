@@ -1,6 +1,8 @@
 # Stardew Profits
 Stardew Profits is a calculation and graphing tool designed to help the players of the popular game "Stardew Valley" to easily calculate and compare their profits from planting different crops under different conditions.
 
+**Now supports [Plentiful Harvest](https://www.nexusmods.com/stardewvalley/mods/9949),[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753),[Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830) and [Lunna Astray](https://www.nexusmods.com/stardewvalley/mods/6626)!**
+
 # Usage
 The tool is split up to two sections: graph box and options box. The options box lets the user quickly change the parameters which are then reflected on the graph.
 
@@ -30,4 +32,4 @@ Level 10 skills | Specific skills available once the player reaches level 10 in 
 Show extra info | Selecting this will show additional detailed info about every crop on the tooltip.
 
 # Contact
-You may contact me on the following locations: [Twitter](https://twitter.com/thorinair_music) | [Reddit](https://www.reddit.com/user/Thorinair/) | [YouTube](https://www.youtube.com/user/Thorinair) | [deviantArt](http://thorinair.deviantart.com/)
+You may contact me on the following locations: 

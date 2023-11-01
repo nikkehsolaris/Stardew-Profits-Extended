@@ -1052,7 +1052,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0.3,
-      "price": 110,
+      "price": 100,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1075,7 +1075,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 280,
+      "price": 255,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1098,7 +1098,7 @@ var crops = {
     "produce": {
       "extra": 1,
       "extraPerc": 0.6,
-      "price": 77,
+      "price": 70,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1121,7 +1121,7 @@ var crops = {
     "produce": {
       "extra": 1,
       "extraPerc": 0.5,
-      "price": 55,
+      "price": 50,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1144,7 +1144,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0.3,
-      "price": 220,
+      "price": 200,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1167,7 +1167,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 66,
+      "price": 60,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1190,7 +1190,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 13,
+      "price": 12,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1213,7 +1213,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 110,
+      "price": 100,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1236,7 +1236,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 187,
+      "price": 170,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1259,7 +1259,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 198,
+      "price": 180,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1282,7 +1282,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 44,
+      "price": 40,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1305,7 +1305,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 171,
+      "price": 156,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1328,7 +1328,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 35,
+      "price": 32,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1351,7 +1351,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 67,
+      "price": 18,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1374,7 +1374,7 @@ var crops = {
     "produce": {
       "extra": 6,
       "extraPerc": 0.05,
-      "price": 121,
+      "price": 110,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1397,7 +1397,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 27,
+      "price": 25,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1420,7 +1420,7 @@ var crops = {
     "produce": {
       "extra": 3,
       "extraPerc": 0.3,
-      "price": 22,
+      "price": 20,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1443,7 +1443,7 @@ var crops = {
     "produce": {
       "extra": 6,
       "extraPerc": 0.1,
-      "price": 77,
+      "price": 70,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1466,7 +1466,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 52,
+      "price": 48,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1489,7 +1489,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 198,
+      "price": 180,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1512,7 +1512,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 61,
+      "price": 56,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1535,7 +1535,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 17,
+      "price": 16,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1558,9 +1558,7 @@ var crops = {
     "produce": {
       "extra": 5,
       "extraPerc": 0.1,
-      "price": 70,
-      "jarType": "Pickles",
-      "kegType": "Juice"
+      "price": 50,
     },
   },
   "quince": {
@@ -1581,9 +1579,9 @@ var crops = {
     "produce": {
       "extra": 3,
       "extraPerc": 0.2,
-      "price": 57,
-      "jarType": "Pickles",
-      "kegType": "Juice"
+      "price": 52,
+      "jarType": "Jelly",
+      "kegType": "Wine"
     },
   },
   "raspberry": {
@@ -1604,7 +1602,7 @@ var crops = {
     "produce": {
       "extra": 5,
       "extraPerc": 0.5,
-      "price": 16,
+      "price": 15,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1627,7 +1625,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 212,
+      "price": 193,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1650,7 +1648,7 @@ var crops = {
     "produce": {
       "extra": 3,
       "extraPerc": 0.2,
-      "price": 35,
+      "price": 32,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1673,7 +1671,7 @@ var crops = {
     "produce": {
       "extra": 3,
       "extraPerc": 0.3,
-      "price": 48,
+      "price": 44,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1696,7 +1694,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 148,
+      "price": 135,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1719,7 +1717,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 44,
+      "price": 40,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1742,7 +1740,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 55,
+      "price": 50,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1765,30 +1763,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 149,
-      "jarType": "Pickles",
-      "kegType": "Juice"
-    },
-  },
-  "voidroot": {
-    "name": "Void Root",
-    "url": "https://www.nexusmods.com/stardewvalley/mods/3753",
-    "img": "voidroot.png",
-    "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "Monster Drop",
-      "specialUrl": ""
-    },
-    "growth": {
-      "initial": 8,
-      "regrow": 0
-    },
-    "produce": {
-      "extra": 0,
-      "extraPerc": 0,
-      "price": 258,
+      "price": 145,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1811,7 +1786,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 258,
+      "price": 235,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1834,7 +1809,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 935,
+      "price": 850,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1857,7 +1832,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 1677,
+      "price": 1525,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1880,7 +1855,7 @@ var crops = {
     "produce": {
       "extra": 4,
       "extraPerc": 0.05,
-      "price": 159,
+      "price": 145,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1903,7 +1878,7 @@ var crops = {
     "produce": {
       "extra": 3,
       "extraPerc": 0.1,
-      "price": 71,
+      "price": 65,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1926,7 +1901,7 @@ var crops = {
     "produce": {
       "extra": 4,
       "extraPerc": 0.03,
-      "price": 82,
+      "price": 75,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
@@ -1949,7 +1924,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 1254,
+      "price": 1140,
       "jarType": "Pickles",
       "kegType": "Juice"
     },
@@ -1972,7 +1947,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 715,
+      "price": 650,
       "jarType": "Jelly",
       "kegType": "Wine"
     },
